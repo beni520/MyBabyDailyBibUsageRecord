@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My Baby Daily Bib Usage Record
 
-You can use the [editor on GitHub](https://github.com/beni520/MyBabyDailyBibUsageRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In daily life, babies often need to use bibs, for example, when they eat, they need to wear Bibs to prevent food from falling onto their clothes and soiling their clothes, or when they are prone to saliva or runny nose, they need to use Bibs to help their babies wipe off saliva and keep their babies clean. Baby's bib is easy to get dirty and grow bacteria. We should always replace and clean the bib. We can record the time, model, color and other details of baby's bib. In this way, we can more easily remember the time when the baby's bib needs to be replaced, and help the baby keep clean.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-# Header 1
-## Header 2
-### Header 3
+We will answer them for you in the first time.
 
-- Bulleted
-- List
+### Address: BeatriceArlenexSgPdE@yahoo.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/MyBabyDailyBibUsageRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
